@@ -213,47 +213,6 @@
     
     
     <entry>
-      <title>Capybara Merge: Build Your Capybara Empire</title>
-      <link href="/denksuo/Capybara-Merge/"/>
-      <url>/denksuo/Capybara-Merge/</url>
-      
-        <content type="html"><![CDATA[<h2 id="🐹-Capybara-Merge-Build-Your-Capybara-Empire"><a href="#🐹-Capybara-Merge-Build-Your-Capybara-Empire" class="headerlink" title="🐹 Capybara Merge: Build Your Capybara Empire"></a>🐹 Capybara Merge: Build Your Capybara Empire</h2><p><strong>Cute. Calm. Capybara Chaos.</strong></p><p><strong>Capybara Merge</strong> is a delightful <strong>hypercasual merge puzzle</strong> where you combine adorable capybaras to unlock new breeds and grow your ultimate capybara collection. Designed for mobile, the game blends relaxing visuals with light strategy, perfect for all ages and short sessions on the go.</p><hr><h3 id="🎮-How-to-Play"><a href="#🎮-How-to-Play" class="headerlink" title="🎮 How to Play"></a>🎮 How to Play</h3><ul><li>🐾 <strong>Drag &amp; Place</strong>: Drop capybaras into empty spaces on the board.</li><li>🔁 <strong>Match &amp; Merge</strong>: Combine two identical capybaras to create a new, higher-level one.</li><li>🧠 <strong>Plan Ahead</strong>: The board fills quickly — think smart to keep it going.</li><li>🎁 <strong>Unlock &amp; Collect</strong>: Discover new capybara designs with every merge!</li></ul><p>Charming animations and satisfying feedback make each merge feel rewarding, while new unlocks keep the progression exciting.</p><hr><h3 id="📝-Overview"><a href="#📝-Overview" class="headerlink" title="📝 Overview"></a>📝 Overview</h3><p>From casual players to animal lovers, <strong>Capybara Merge</strong> offers a cozy gameplay loop with enough depth to keep you engaged. Whether you’re playing during a coffee break or commuting, the portrait mode ensures smooth one-handed gameplay.</p><p>Key Features:</p><ul><li>🧩 Hypercasual puzzle mechanics</li><li>🦙 Adorable 2D capybara designs</li><li>📲 Optimized for mobile (portrait)</li><li>💤 Relaxing offline gameplay</li><li>📈 Unlockable progression system with visual evolution</li></ul><hr><h3 id="🔗-Demo-Download"><a href="#🔗-Demo-Download" class="headerlink" title="🔗 Demo &#x2F; Download"></a>🔗 Demo &#x2F; Download</h3><p>👉 <a href="#">Coming Soon on Google Play</a></p><hr><h3 id="🖼-Screenshots"><a href="#🖼-Screenshots" class="headerlink" title="🖼 Screenshots"></a>🖼 Screenshots</h3><div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px;">  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADOmhRlweW5YKLoO8g4_tRo0mz9vmPAALwxDEbA5-IVpg0DaWIpvUgAQADAgADeQADNgQ" style="width: 100%; border-radius: 8px;" />  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADO2hRlwtRzEaz-Pn-W_LyC28_Ie7jAALxxDEbA5-IVqVS9w6PjGyiAQADAgADeQADNgQ" style="width: 100%; border-radius: 8px;" />  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADPGhRlw53YLLhXqmUV6wr0MZyHk-_AALyxDEbA5-IVo5FdIe_E492AQADAgADeQADNgQ" style="width: 100%; border-radius: 8px;" />  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADPmhRlxKoQof_STM1rEm2MelVDI0DAAL0xDEbA5-IVj1BG-of92inAQADAgADeQADNgQ" style="width: 100%; border-radius: 8px;" />  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADP2hRlxX0v8Ap6g_N3mZKiAEkA1f2AAL1xDEbA5-IVs1Hp5iSj34GAQADAgADeQADNgQ" style="width: 100%; border-radius: 8px;" />  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADQGhRlxesA_KtS-ZNIZzDzRqQRDcyAAL2xDEbA5-IVttru8rFWNlHAQADAgADeQADNgQ" style="width: 100%; border-radius: 8px;" /></div><hr><h3 id="🛠-Technical-Stack"><a href="#🛠-Technical-Stack" class="headerlink" title="🛠 Technical Stack"></a>🛠 Technical Stack</h3><table><thead><tr><th>Component</th><th>Technology &#x2F; Tool</th></tr></thead><tbody><tr><td>Game Engine</td><td>Unity (2D)</td></tr><tr><td>Scripting Language</td><td>C#</td></tr><tr><td>Merge System</td><td>Capybara Evolution Tree Logic</td></tr><tr><td>Physics</td><td>Minimal (Grid-based)</td></tr><tr><td>Target Platforms</td><td>Android</td></tr><tr><td>Orientation</td><td>Portrait</td></tr><tr><td>Graphics</td><td>2D, Cute Cartoon Style</td></tr><tr><td>Offline Support</td><td>Fully Offline</td></tr><tr><td>Version Control</td><td>Git + GitHub</td></tr></tbody></table><hr><p><em>Post by Benk Studio Team</em><br><em>Thientm27</em></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Game Showcase </category>
-          
-          <category> Mobile Game </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 2D </tag>
-            
-            <tag> Casual </tag>
-            
-            <tag> Mobile </tag>
-            
-            <tag> Android </tag>
-            
-            <tag> Unity </tag>
-            
-            <tag> Client Projects </tag>
-            
-            <tag> Puzzle </tag>
-            
-            <tag> Merge </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Pocket Gladiators</title>
       <link href="/denksuo/Pocket-Gladiators/"/>
       <url>/denksuo/Pocket-Gladiators/</url>
@@ -295,6 +254,47 @@
             <tag> Gacha </tag>
             
             <tag> Customization </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Capybara Merge: Build Your Capybara Empire</title>
+      <link href="/denksuo/Capybara-Merge/"/>
+      <url>/denksuo/Capybara-Merge/</url>
+      
+        <content type="html"><![CDATA[<h2 id="🐹-Capybara-Merge-Build-Your-Capybara-Empire"><a href="#🐹-Capybara-Merge-Build-Your-Capybara-Empire" class="headerlink" title="🐹 Capybara Merge: Build Your Capybara Empire"></a>🐹 Capybara Merge: Build Your Capybara Empire</h2><p><strong>Cute. Calm. Capybara Chaos.</strong></p><p><strong>Capybara Merge</strong> is a delightful <strong>hypercasual merge puzzle</strong> where you combine adorable capybaras to unlock new breeds and grow your ultimate capybara collection. Designed for mobile, the game blends relaxing visuals with light strategy, perfect for all ages and short sessions on the go.</p><hr><h3 id="🎮-How-to-Play"><a href="#🎮-How-to-Play" class="headerlink" title="🎮 How to Play"></a>🎮 How to Play</h3><ul><li>🐾 <strong>Drag &amp; Place</strong>: Drop capybaras into empty spaces on the board.</li><li>🔁 <strong>Match &amp; Merge</strong>: Combine two identical capybaras to create a new, higher-level one.</li><li>🧠 <strong>Plan Ahead</strong>: The board fills quickly — think smart to keep it going.</li><li>🎁 <strong>Unlock &amp; Collect</strong>: Discover new capybara designs with every merge!</li></ul><p>Charming animations and satisfying feedback make each merge feel rewarding, while new unlocks keep the progression exciting.</p><hr><h3 id="📝-Overview"><a href="#📝-Overview" class="headerlink" title="📝 Overview"></a>📝 Overview</h3><p>From casual players to animal lovers, <strong>Capybara Merge</strong> offers a cozy gameplay loop with enough depth to keep you engaged. Whether you’re playing during a coffee break or commuting, the portrait mode ensures smooth one-handed gameplay.</p><p>Key Features:</p><ul><li>🧩 Hypercasual puzzle mechanics</li><li>🦙 Adorable 2D capybara designs</li><li>📲 Optimized for mobile (portrait)</li><li>💤 Relaxing offline gameplay</li><li>📈 Unlockable progression system with visual evolution</li></ul><hr><h3 id="🔗-Demo-Download"><a href="#🔗-Demo-Download" class="headerlink" title="🔗 Demo &#x2F; Download"></a>🔗 Demo &#x2F; Download</h3><p>👉 <a href="#">Coming Soon on Google Play</a></p><hr><h3 id="🖼-Screenshots"><a href="#🖼-Screenshots" class="headerlink" title="🖼 Screenshots"></a>🖼 Screenshots</h3><div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px;">  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADOmhRlweW5YKLoO8g4_tRo0mz9vmPAALwxDEbA5-IVpg0DaWIpvUgAQADAgADeQADNgQ" style="width: 100%; border-radius: 8px;" />  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADO2hRlwtRzEaz-Pn-W_LyC28_Ie7jAALxxDEbA5-IVqVS9w6PjGyiAQADAgADeQADNgQ" style="width: 100%; border-radius: 8px;" />  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADPGhRlw53YLLhXqmUV6wr0MZyHk-_AALyxDEbA5-IVo5FdIe_E492AQADAgADeQADNgQ" style="width: 100%; border-radius: 8px;" />  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADPmhRlxKoQof_STM1rEm2MelVDI0DAAL0xDEbA5-IVj1BG-of92inAQADAgADeQADNgQ" style="width: 100%; border-radius: 8px;" />  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADP2hRlxX0v8Ap6g_N3mZKiAEkA1f2AAL1xDEbA5-IVs1Hp5iSj34GAQADAgADeQADNgQ" style="width: 100%; border-radius: 8px;" />  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADQGhRlxesA_KtS-ZNIZzDzRqQRDcyAAL2xDEbA5-IVttru8rFWNlHAQADAgADeQADNgQ" style="width: 100%; border-radius: 8px;" /></div><hr><h3 id="🛠-Technical-Stack"><a href="#🛠-Technical-Stack" class="headerlink" title="🛠 Technical Stack"></a>🛠 Technical Stack</h3><table><thead><tr><th>Component</th><th>Technology &#x2F; Tool</th></tr></thead><tbody><tr><td>Game Engine</td><td>Unity (2D)</td></tr><tr><td>Scripting Language</td><td>C#</td></tr><tr><td>Merge System</td><td>Capybara Evolution Tree Logic</td></tr><tr><td>Physics</td><td>Minimal (Grid-based)</td></tr><tr><td>Target Platforms</td><td>Android</td></tr><tr><td>Orientation</td><td>Portrait</td></tr><tr><td>Graphics</td><td>2D, Cute Cartoon Style</td></tr><tr><td>Offline Support</td><td>Fully Offline</td></tr><tr><td>Version Control</td><td>Git + GitHub</td></tr></tbody></table><hr><p><em>Post by Benk Studio Team</em><br><em>Thientm27</em></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Game Showcase </category>
+          
+          <category> Mobile Game </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 2D </tag>
+            
+            <tag> Casual </tag>
+            
+            <tag> Mobile </tag>
+            
+            <tag> Android </tag>
+            
+            <tag> Unity </tag>
+            
+            <tag> Client Projects </tag>
+            
+            <tag> Puzzle </tag>
+            
+            <tag> Merge </tag>
             
         </tags>
       
